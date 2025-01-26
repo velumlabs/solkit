@@ -1,4 +1,4 @@
-# **vVelum Labs Solana Kit**
+# **Velum Labs Solana Kit**
 
 ![Velo (2)](https://github.com/user-attachments/assets/e1d421e5-f316-4d1b-a6a6-26626f20b414)
 
